@@ -1,0 +1,19 @@
+{
+  "name": "solarlog",
+  "version": "1.0.0",
+  "description": "NodeJS API for local communication with Solar-Log Family devices",
+  "license": "AGPL-3.0-only",
+  "author": "Robin Decker <robin@decker.cx> (https://robindecker.me)",
+  "repository": {
+    "url": "https://github.com/robinp7720/solarlog-node",
+    "type": "git"
+  },
+  "type": "module",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "axios": "^1.9.0"
+  }
+}
